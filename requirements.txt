@@ -1,0 +1,11 @@
+pandas
+seaborn
+matplotlib
+numpy
+lanchain-community
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+dotenv
+transformers
+gradio

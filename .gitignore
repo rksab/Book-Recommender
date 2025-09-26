@@ -1,0 +1,9 @@
+# Ignore sensitive files
+.env
+
+# Ignore Jupyter auto-saves
+.ipynb_checkpoints/
+
+# Ignore local Python cache
+__pycache__/
+*.pyc
